@@ -9,7 +9,7 @@ A simple Leaflet plugin for creating legends with HTML.
 From NPM:
 
 ```bash
-npm install leaflet-html-legend
+npm i leaflet-html-legend
 ```
 
 
